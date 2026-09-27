@@ -1,0 +1,187 @@
+{
+  "works": [
+    {
+      "folder": "Case",
+      "category": "3d",
+      "title": "Case",
+      "images": [
+        "images/3d/Case/Case.png",
+        "images/3d/Case/Case1.png"
+      ]
+    },
+    {
+      "folder": "Fabric Asset",
+      "category": "3d",
+      "title": "Fabric Asset",
+      "images": [
+        "images/3d/Fabric Asset/Screenshot 2026-09-28 014307.png"
+      ]
+    },
+    {
+      "folder": "GoldenChest",
+      "category": "3d",
+      "title": "Goldenchest",
+      "images": [
+        "images/3d/GoldenChest/photo_2026-09-28_00-17-15 (2).jpg"
+      ]
+    },
+    {
+      "folder": "GoldenMachine",
+      "category": "3d",
+      "title": "Goldenmachine",
+      "images": [
+        "images/3d/GoldenMachine/photo_2026-09-28_00-17-15.jpg"
+      ]
+    },
+    {
+      "folder": "Mine Asset",
+      "category": "3d",
+      "title": "Mine Asset",
+      "images": [
+        "images/3d/Mine Asset/Screenshot 2026-09-28 014441.png"
+      ]
+    },
+    {
+      "folder": "Other",
+      "category": "3d",
+      "title": "Other",
+      "images": [
+        "images/3d/Other/photo_2026-07-18_01-16-32.jpg",
+        "images/3d/Other/photo_2026-07-18_18-54-47.jpg"
+      ]
+    },
+    {
+      "folder": "ScifiCorridor",
+      "category": "3d",
+      "title": "Scificorridor",
+      "images": [
+        "images/3d/ScifiCorridor/scifi_corridor.png",
+        "images/3d/ScifiCorridor/scifi_interior_a.png"
+      ]
+    },
+    {
+      "folder": "StylizedRocks",
+      "category": "3d",
+      "title": "Stylizedrocks",
+      "images": [
+        "images/3d/StylizedRocks/imrrrage.png"
+      ]
+    },
+    {
+      "folder": "StylizedSwords",
+      "category": "3d",
+      "title": "Stylizedswords",
+      "images": [
+        "images/3d/StylizedSwords/IMG_20260322_154759.jpg",
+        "images/3d/StylizedSwords/IMG_20260322_191900.jpg",
+        "images/3d/StylizedSwords/image-244.png",
+        "images/3d/StylizedSwords/image-254.png",
+        "images/3d/StylizedSwords/image-261.png"
+      ]
+    },
+    {
+      "folder": "Building",
+      "category": "building",
+      "title": "Building",
+      "images": [
+        "images/building/Building/View1.png",
+        "images/building/Building/View2.png"
+      ]
+    },
+    {
+      "folder": "FnafRemake",
+      "category": "building",
+      "title": "Fnafremake",
+      "images": [
+        "images/building/FnafRemake/View1.png",
+        "images/building/FnafRemake/View2.png",
+        "images/building/FnafRemake/View3.png"
+      ]
+    },
+    {
+      "folder": "Lab",
+      "category": "building",
+      "title": "Lab",
+      "images": [
+        "images/building/Lab/photo_2026-09-26_21-57-56 (2).jpg",
+        "images/building/Lab/photo_2026-09-26_21-57-56.jpg",
+        "images/building/Lab/photo_2026-09-26_21-57-57.jpg",
+        "images/building/Lab/work_1.png"
+      ]
+    },
+    {
+      "folder": "LowpolyPark",
+      "category": "building",
+      "title": "Lowpolypark",
+      "images": [
+        "images/building/LowpolyPark/LowPolyPark.png"
+      ]
+    },
+    {
+      "folder": "MonkeyMerge",
+      "category": "building",
+      "title": "Monkeymerge",
+      "images": [
+        "images/building/MonkeyMerge/Screenshot 2026-09-26 211449.png",
+        "images/building/MonkeyMerge/Screenshot 2026-09-26 211458.png"
+      ]
+    },
+    {
+      "folder": "Office",
+      "category": "building",
+      "title": "Office",
+      "images": [
+        "images/building/Office/Office.png"
+      ]
+    },
+    {
+      "folder": "RealisticBuilding",
+      "category": "building",
+      "title": "Realisticbuilding",
+      "images": [
+        "images/building/RealisticBuilding/photo_2026-09-26_21-57-59 (2).jpg"
+      ]
+    },
+    {
+      "folder": "ScifiLobby",
+      "category": "building",
+      "title": "Scifilobby",
+      "images": [
+        "images/building/ScifiLobby/photo_2026-07-18_01-00-32.jpg",
+        "images/building/ScifiLobby/photo_2026-07-18_01-00-58.jpg"
+      ]
+    },
+    {
+      "folder": "Scp Sector",
+      "category": "building",
+      "title": "Scp Sector",
+      "images": [
+        "images/building/Scp Sector/photo_2026-09-26_21-57-59 (3).jpg"
+      ]
+    },
+    {
+      "folder": "StylizedLobby",
+      "category": "building",
+      "title": "Stylizedlobby",
+      "images": [
+        "images/building/StylizedLobby/photo_2026-09-26_21-57-59.jpg"
+      ]
+    },
+    {
+      "folder": "StylizedRef",
+      "category": "building",
+      "title": "Stylizedref",
+      "images": [
+        "images/building/StylizedRef/photo_2026-07-18_01-17-04.jpg"
+      ]
+    },
+    {
+      "folder": "UndergroundCorridor",
+      "category": "building",
+      "title": "Undergroundcorridor",
+      "images": [
+        "images/building/UndergroundCorridor/Corridor.jpg"
+      ]
+    }
+  ]
+}
